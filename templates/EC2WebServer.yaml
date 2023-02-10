@@ -4,7 +4,7 @@ Parameters:
   EnvironmentName:
     Description: Name for VPC and associated resources
     Type: String
-    Default: AppRegistry Lab EC2 Web Server
+    Default: EC2 Web Server
   VpcCIDR:
     Description: Please enter the IP range (CIDR notation) for this VPC
     Type: String
